@@ -1,4 +1,4 @@
-### Extracting Insights from PDFs using LangChain and FAISS: A Step-by-Step Guide
+### Chat with your PDFs using LangChain and FAISS: A Step-by-Step Guide
 
 In today’s data-driven world, accessing and extracting meaningful information from large documents can be a challenging task. This is especially true when dealing with extensive PDFs that contain a wealth of information. Fortunately, with the advancements in AI and machine learning, there are now sophisticated tools and libraries that can make this task more manageable and efficient.
 
